@@ -1,4 +1,0 @@
-# outputfiles 
-
-oysterstuff_*.csv
-
