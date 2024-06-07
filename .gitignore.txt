@@ -1,0 +1,4 @@
+# outputfiles 
+
+oysterstuff_*.csv
+
